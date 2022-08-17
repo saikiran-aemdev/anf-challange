@@ -72,7 +72,7 @@ Fetch the first 10 pages under the path `/content/anf-code-challenge/us/en`  whe
 ### Notes:
 1. Please refer to `exercises/Exercise-3` folder and deploy `Exercise-3.zip` onto your `AEM 6.5.0`
 
-Solution:
+### SOLUTION:
 path=/content/anf-code-challenge/us/en/
 type=cq:Page
 p.offset=0
